@@ -9,13 +9,13 @@ the AM/PM text (if shown), are fixed.
 
 </br>
 
-#### Example: Left, Center, Right alignment in 12-hour mode with AM/PM text below the time
+##### Example: Left, Center, Right alignment in 12-hour mode with AM/PM text below the time
 
 ![Left Align](screenshots/AM_PM_below_left_align.png)   ![Center Align](screenshots/AM_PM_below_center_align.png)   ![Right Align](screenshots/AM_PM_below_right_align.png)
 
 </br>
   
-#### Example: Fixed alignment in 12-hour and 24-four hour formats, with AM/PM text to the right of the time
+##### Example: Fixed alignment in 12-hour and 24-four hour formats, with AM/PM text to the right of the time
 
 ![Demo Video](video/demo30.gif)
 

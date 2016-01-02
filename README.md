@@ -17,7 +17,7 @@ and a time-specific colon glyph.
 
 Example: Left, Center, Right alignment in 12-hour mode with the AM/PM text below the time
 
-![Left Align](screenshots/AM_PM_below_left_align.png) !(screenshots/AM_PM_below_center_align.png) !(screenshots/AM_PM_below_right_align.png)
+![Left Align](screenshots/AM_PM_below_left_align.png) ![Center Align](screenshots/AM_PM_below_center_align.png) ![Right Align](screenshots/AM_PM_below_right_align.png)
 
 Example: Fixed alignment with the AM/PM text to the right of the time
 

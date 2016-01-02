@@ -29,7 +29,7 @@ time value changes. See layoutSubviews in ViewController.swift in TimeViewDemo/T
 The time is formatted per WWDC 2013 Session 223 — Using Fonts with Text Kit. This allows for proportional spacing of the numbers
 and a time-specific colon glyph.
 
-Usage:
+#### Usage:
     
     timeView.is24Hour       Bool               Set true for 24-hour format (no AM/PM, hours 0 to 23).
     timeView.time           NSDate             The time to display.

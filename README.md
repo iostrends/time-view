@@ -7,13 +7,13 @@ The text can be aligned in one of four ways: **Left**, **Center**, **Right**, an
 when the AM/PM text is below the time, otherwise the effect is minimal. With Fixed alignment, the position of the colon, and the position of
 the AM/PM text (if shown), are fixed.
 
+</br>
 
 #### Example: Left, Center, Right alignment in 12-hour mode with AM/PM text below the time
 
 ![Left Align](screenshots/AM_PM_below_left_align.png)   ![Center Align](screenshots/AM_PM_below_center_align.png)   ![Right Align](screenshots/AM_PM_below_right_align.png)
 
-</br>  
-</br>  
+</br>
   
 #### Example: Fixed alignment in 12-hour and 24-four hour formats, with AM/PM text to the right of the time
 

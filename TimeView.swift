@@ -281,12 +281,14 @@ WWDC 2013 Session 223 — Using Fonts with Text Kit.
         didSet {
             setTimeText()
             layoutSubviews()
+            invalidateIntrinsicContentSize()
         }
     }
     
     var timeIsValid: Bool = true {
         didSet {
             setTimeText()
+            invalidateIntrinsicContentSize()
         }
     }
     

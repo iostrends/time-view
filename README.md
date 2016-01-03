@@ -22,9 +22,7 @@ the AM/PM text (if shown), are fixed.
 TimeView is used in the video: "Time setter for touch-screen devices - Demo" [Download](https://www.dropbox.com/s/7amn3zjnpqknsci/TimeSetterDemo.mp4?dl=1) or [Vimeo](https://vimeo.com/136535301)
 
 For esthetic reasons, the width of the TimeView is adjusted dynamically as the time changes, so that if the background color is different from that of the enclosing view,
-a constant visual inset of the time from the TimeView border is maintained. Note that this means that if the alignment is Center or Right,
-in order to keep center or right alignment of the TimeView relative to its parent view, the centerX or rightX values of the TimeView need to be reset when the
-time value changes. See layoutSubviews in ViewController.swift in TimeViewDemo/TestTimeViewAlignment.
+a constant visual inset of the time from the TimeView border is maintained.
 
 The time is formatted per WWDC 2013 Session 223 — Using Fonts with Text Kit. This allows for proportional spacing of the numbers
 and a time-specific colon glyph.
